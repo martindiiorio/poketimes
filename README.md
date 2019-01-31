@@ -2,6 +2,7 @@
 Simple React interface training with Redux
 Serves no real purpose, but is useful as an example or boilerplate for a React / Redux.
 
+![POKETIMES Screenshot](https://raw.githubusercontent.com/martindiiorio/poketimes/master/screenshot.png)
 
 ## Demo
 [Click here](https://martindiiorio.github.io/poketimes/) for a demo.
