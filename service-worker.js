@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/poketimes/precache-manifest.d6c65981d6f8bea05459f337eeaa3b83.js"
+  "/[your-user-name].github.io/[your-repo-name]/precache-manifest.0c0f8187097bb81aff4f2d2a5eb3e5fd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/poketimes/index.html", {
+workbox.routing.registerNavigationRoute("/[your-user-name].github.io/[your-repo-name]/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

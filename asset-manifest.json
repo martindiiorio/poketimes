@@ -1,14 +1,14 @@
 {
-  "main.css": "/poketimes/static/css/main.a0921d22.chunk.css",
-  "main.js": "/poketimes/static/js/main.6c5fcac6.chunk.js",
-  "main.js.map": "/poketimes/static/js/main.6c5fcac6.chunk.js.map",
-  "static/js/1.2dc14526.chunk.js": "/poketimes/static/js/1.2dc14526.chunk.js",
-  "static/js/1.2dc14526.chunk.js.map": "/poketimes/static/js/1.2dc14526.chunk.js.map",
-  "runtime~main.js": "/poketimes/static/js/runtime~main.7b792e93.js",
-  "runtime~main.js.map": "/poketimes/static/js/runtime~main.7b792e93.js.map",
-  "static/media/pokeball.png": "/poketimes/static/media/pokeball.f10bf078.png",
-  "static/css/main.a0921d22.chunk.css.map": "/poketimes/static/css/main.a0921d22.chunk.css.map",
-  "index.html": "/poketimes/index.html",
-  "precache-manifest.d6c65981d6f8bea05459f337eeaa3b83.js": "/poketimes/precache-manifest.d6c65981d6f8bea05459f337eeaa3b83.js",
-  "service-worker.js": "/poketimes/service-worker.js"
+  "main.css": "/[your-user-name].github.io/[your-repo-name]/static/css/main.a0921d22.chunk.css",
+  "main.js": "/[your-user-name].github.io/[your-repo-name]/static/js/main.077ca57b.chunk.js",
+  "main.js.map": "/[your-user-name].github.io/[your-repo-name]/static/js/main.077ca57b.chunk.js.map",
+  "static/js/1.2dc14526.chunk.js": "/[your-user-name].github.io/[your-repo-name]/static/js/1.2dc14526.chunk.js",
+  "static/js/1.2dc14526.chunk.js.map": "/[your-user-name].github.io/[your-repo-name]/static/js/1.2dc14526.chunk.js.map",
+  "runtime~main.js": "/[your-user-name].github.io/[your-repo-name]/static/js/runtime~main.df0e3362.js",
+  "runtime~main.js.map": "/[your-user-name].github.io/[your-repo-name]/static/js/runtime~main.df0e3362.js.map",
+  "static/media/pokeball.png": "/[your-user-name].github.io/[your-repo-name]/static/media/pokeball.f10bf078.png",
+  "static/css/main.a0921d22.chunk.css.map": "/[your-user-name].github.io/[your-repo-name]/static/css/main.a0921d22.chunk.css.map",
+  "index.html": "/[your-user-name].github.io/[your-repo-name]/index.html",
+  "precache-manifest.0c0f8187097bb81aff4f2d2a5eb3e5fd.js": "/[your-user-name].github.io/[your-repo-name]/precache-manifest.0c0f8187097bb81aff4f2d2a5eb3e5fd.js",
+  "service-worker.js": "/[your-user-name].github.io/[your-repo-name]/service-worker.js"
 }
