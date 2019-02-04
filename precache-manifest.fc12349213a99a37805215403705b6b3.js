@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/poketimes/static/js/runtime~main.7b792e93.js"
   },
   {
-    "revision": "6c5fcac6fb0340c91101",
-    "url": "/poketimes/static/js/main.6c5fcac6.chunk.js"
+    "revision": "f19c66e3af4d253ba47f",
+    "url": "/poketimes/static/js/main.f19c66e3.chunk.js"
   },
   {
     "revision": "2dc14526f13c19f1ab61",
     "url": "/poketimes/static/js/1.2dc14526.chunk.js"
   },
   {
-    "revision": "6c5fcac6fb0340c91101",
+    "revision": "f19c66e3af4d253ba47f",
     "url": "/poketimes/static/css/main.a0921d22.chunk.css"
   },
   {
-    "revision": "d68c788f76a542fdad706b606c6420ce",
+    "revision": "a90a40e97c64b6015f3a634592542803",
     "url": "/poketimes/index.html"
   }
 ];
